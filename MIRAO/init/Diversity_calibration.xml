@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="9">
+<calib_params class_id="0" tracking_level="0" version="0">
+	<wavelength>675</wavelength>
+	<target_radius>10</target_radius>
+	<average_zer_radius>11.383397102355957</average_zer_radius>
+	<fft_support_size>128</fft_support_size>
+	<do_transpose>0</do_transpose>
+	<do_flip_x>1</do_flip_x>
+	<do_flip_y>1</do_flip_y>
+	<resampling_factor>970.76624529724268</resampling_factor>
+</calib_params>
+</boost_serialization>
+
