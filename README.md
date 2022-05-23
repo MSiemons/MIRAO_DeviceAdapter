@@ -6,8 +6,7 @@ For any questions please contact Marijn Siemons, marijnsiemons@gmail.com.
 - Get Micro-Manager version 1.4.23 (From: https://micro-manager.org/wiki/Micro-Manager_Nightly_Builds )
 - Copy the MIRAO folder in Micro-Manager installation folder
 - Copy all .dll-files from MIRAO/lib folder to the Micro-Manager installation folder
-- Add the MIRAO in a hardware configuration as usual (https://micro-manager.org/wiki/Micro-Manager_Configuration_Guide)
-The MIRAO52E device should appear under IODeformableMirror  add “MIRAO52E | Mirao52-e”. No further details are required.
+- Add the MIRAO in a hardware configuration as usual (https://micro-manager.org/wiki/Micro-Manager_Configuration_Guide). The MIRAO52E device should appear under IODeformableMirror. Now add “MIRAO52E | Mirao52-e”. No further details are required.
 For testing one can use “MIRAO52E_FAKE | Fake Mirao52-e”, which is a fake mirror.
 MIRAO can now be used by Micro-Manager.
 
